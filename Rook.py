@@ -85,7 +85,7 @@ if __name__ == '__main__':
 
     # 만화(Cartoon) 스타일로 변환된 동영상을 저장할 파일 설정
     fourcc = cv.VideoWriter_fourcc(*'XVID')
-    out = cv.VideoWriter('Corrected_chchess.mp4', fourcc, fps, (frame_width, frame_height))
+    out = cv.VideoWriter('Corrected_chchess.avi', fourcc, fps, (frame_width, frame_height))
 
     # Run distortion correction
     show_rectify = True
