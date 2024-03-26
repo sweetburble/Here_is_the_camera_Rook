@@ -13,4 +13,4 @@ OpenCV를 이용해서, Camera calibration을 수행하고, 그 결과로 렌즈
 
 ---
 ### 캘리브레이션 결과를 활용한, 렌즈 왜곡 보정 동영상
-https://github.com/sweetburble/Here_is_the_camera_Rook/assets/79733289/20aec60c-b51e-44f7-ba4a-cd2f8f25a79b
+https://github.com/sweetburble/Here_is_the_camera_Rook/assets/79733289/2ec08e7d-a6e4-46e3-a1af-c37ec14ee64c
